@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanaushasree
+- 👋 Hi, I’m kanaushasree
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on github
